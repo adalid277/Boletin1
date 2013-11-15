@@ -22,6 +22,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        <!--  Songs Activity -->
+        <activity android:name=".Viernes" />
+        
+        <!--  Videos Activity -->
+        <activity android:name=".Sabado" />
+        
+        <!--  Photos Activity -->
+        <activity android:name=".Domingo" />
     </application>
 
 </manifest>
